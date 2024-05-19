@@ -1,7 +1,5 @@
 ## **【报告】Homework3**
 
-==85肖羿==
-
 ### **1.【概括】**
 
 Python 基于 Pytorch 实现前馈神经网络 FNN 进行昆虫分类。
@@ -160,7 +158,6 @@ $\text{Sigmoid}$ 性能最劣。剩余四者大约为同一量级，其中 $\tex
 ![](./FNN/src/(dataset=2)_test150_2.png)
 
 <div STYLE="page-break-after: always;"></div>
-
 ### **5.【问题】**
 
 - 网络性能波动大，时好时坏影响判断，重复实验次数设置太低（受限于设备运行效率）。
