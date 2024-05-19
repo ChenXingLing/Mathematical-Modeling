@@ -1,6 +1,6 @@
 # Mathematical-Modeling
 
-数学建模（SVD、FNN）
+数学建模（SVD图像压缩、FNN昆虫分类）
 
 ### **1.【SVD】**
 
